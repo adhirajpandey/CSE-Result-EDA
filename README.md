@@ -1,5 +1,4 @@
-# amazon-scraper
-
+# CSE-Result-EDA
 # Description
 
 This is an Exploratory Data Analysis Project to Extract data from University's result portal to Transform, Load, Analyze and Visualize it to gain insights.
