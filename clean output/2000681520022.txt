@@ -1,0 +1,1200 @@
+AKTU-One-View
+Student Result
+Institute Code & Name
+:
+(068  ) MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT
+Course Code & Name
+:
+(04) B.TECH
+Branch Code & Name
+:
+(152) COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE)
+RollNo
+:
+2000681520022
+EnrollmentNo
+:
+200068152014121
+Name
+:
+HIMANSHU SAINI
+Hindi Name
+:
+हिमांशु सैनी
+Father's Name
+:
+NAIN SINGH SAINI
+Gender
+:
+M 
+Print One View 
+One View Result
+Session : 2020-21(REGULAR)
+Semesters : 
+1,2
+Result : 
+PASS 
+Marks : 
+1373/1800
+COP : 
+Audit 1  : Cleared
+Audit 2  : Cleared
+Semester
+:
+1
+Even/Odd
+:
+Odd
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 656
+Result Status
+:
+CP( 0)
+SGPA
+:
+7.8
+Date of Declaration
+:
+17/06/21
+CodeNameTypeInternalExternalBack PaperGrade
+KAS101T
+Engineering Physics
+Theory
+ 34 62--B
+KAS103T
+Engineering Mathematics-I
+Theory
+ 37 76--B+
+KEE101T
+Basic Electrical Engineering
+Theory
+ 41 66--B+
+KCS101T
+Programming for Problem Solving
+Theory
+ 50 65--B+
+KMC101
+AI For Engineering
+Theory
+ 24 12--B+
+KAS151P
+Engineering Physics Lab
+Practical
+ 16 20--B+
+KEE151P
+Basic Electrical Engineering Lab
+Practical
+ 19 19--B+
+KCS151P
+Programming for Problem Solving
+Practical
+ 15 24--B+
+KCE151P
+Engineering Graphics & Design Lab
+Practical
+ 40 36--B+
+KNC101
+Soft Skill I
+CA
+ 15 11  
+Semester
+:
+2
+Even/Odd
+:
+Even
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 717
+Result Status
+:
+PASS 
+SGPA
+:
+8.65
+Date of Declaration
+:
+13/09/21
+CodeNameTypeInternalExternalBack PaperGrade
+KAS202T
+Engineering Chemistry
+Theory
+ 37 84--A
+KAS203T
+Engineering Mathematics-II
+Theory
+ 35 78--B+
+KEC201T
+Emerging Domain in Electronics Engineering
+Theory
+ 38 72--B+
+KME201T
+Fundamentals of Mechanical Engineering & Mechatronics
+Theory
+ 36 76--B+
+KMC202
+Emerging Technology for Engineering
+Theory
+ 21 24--A+
+KAS252P
+Engineering Chemistry Lab
+Practical
+ 21 22--A
+KEC251P
+Electronics Engineering Lab
+Practical
+ 20 21--A
+KAS254P
+English Language Lab
+Practical
+ 20 21--A
+KWS251P
+Mechanical Workshop Lab
+Practical
+ 45 46--A+
+KNC201
+Soft Skill II
+CA
+ 23 25  
+Session : 2021-22(REGULAR)
+Semesters : 
+3,4
+Result : 
+PASS 
+Marks : 
+1271/1850
+COP : 
+Audit 1  : Cleared
+Audit 2  : Cleared
+Semester
+:
+3
+Even/Odd
+:
+Odd
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+612
+Result Status
+:
+CP( 0)
+SGPA
+:
+6.82
+Date of Declaration
+:
+31/05/22
+CodeNameTypeInternalExternalBack PaperGrade
+KOE038
+Electronics Engineering
+Theory
+4051--B
+KAS301
+Technical Communication
+Theory
+3449--C
+KCS301
+Data Structure
+Theory
+4436--C
+KCS302
+Computer Organization and Architecture
+Theory
+4048--C
+KCS303
+Discrete Structures & Theory of Logic
+Theory
+3864--B
+KCS351
+Data Structures Using C Lab
+Practical
+2019--B+
+KCS352
+Computer Organization Lab
+Practical
+2221--A
+KCS353
+Discrete Structure & Logic Lab
+Practical
+1920--B+
+KCS354
+Mini Project or Internship Assessment
+Practical
+47 --A+
+KNC301
+Computer System Security
+CA
+1722  
+Semester
+:
+4
+Even/Odd
+:
+Even
+Total Subjects
+:
+9
+Theory Subjects
+:
+5
+Practical Subjects
+:
+3
+Total Marks Obt.
+:
+659
+Result Status
+:
+PASS 
+SGPA
+:
+8.05
+Date of Declaration
+:
+10/10/22
+CodeNameTypeInternalExternalBack PaperGrade
+KAS402
+Maths IV
+Theory
+4863--B+
+KVE401
+Universal Human Values
+Theory
+3960--B
+KCS401
+Operating Systems
+Theory
+3867--B+
+KCS402
+Theory of Automata and Formal Languages
+Theory
+4165--B+
+KCS403
+Microprocessor
+Theory
+4265--B+
+KCS451
+Operating Systems Lab
+Practical
+2120--A
+KCS452
+Microprocessor Lab
+Practical
+2123--A
+KCS453
+Python Language Programming Lab
+Practical
+2323--A+
+KNC402
+Python Programming
+CA
+2526  
+MOOCs Certifications
+ In case you have passed some university specified MOOCs courses which are not mentioned above. Kindly inform at examcontrolroom@aktu.ac.in 
+CONVERSION OF GRADES INTO PERCENTAGE 
+Marks in percentage =(CGPA) X 10
+Note: University doesn't own for the errors or omissions, if any, in this statement.
+Designed & Developed by
+                                                AKTU-SDC TeamInstitute Code & Name
+:
+(068  ) MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT
+Course Code & Name
+:
+(04) B.TECH
+Branch Code & Name
+:
+(152) COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE)
+RollNo
+:
+2000681520022
+EnrollmentNo
+:
+200068152014121
+Name
+:
+HIMANSHU SAINI
+Hindi Name
+:
+हिमांशु सैनी
+Father's Name
+:
+NAIN SINGH SAINI
+Gender
+:
+M 
+Print One ViewInstitute Code & Name
+:
+(068  ) MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUTCourse Code & Name
+:
+(04) B.TECH
+Branch Code & Name
+:
+(152) COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE)RollNo
+:
+2000681520022
+EnrollmentNo
+:
+200068152014121Name
+:
+HIMANSHU SAINI
+Hindi Name
+:
+हिमांशु सैनीFather's Name
+:
+NAIN SINGH SAINI
+Gender
+:
+MPrint One ViewOne View ResultSession : 2020-21(REGULAR)
+Semesters : 
+1,2
+Result : 
+PASS 
+Marks : 
+1373/1800
+COP : 
+Audit 1  : Cleared
+Audit 2  : Cleared
+Semester
+:
+1
+Even/Odd
+:
+Odd
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 656
+Result Status
+:
+CP( 0)
+SGPA
+:
+7.8
+Date of Declaration
+:
+17/06/21
+CodeNameTypeInternalExternalBack PaperGrade
+KAS101T
+Engineering Physics
+Theory
+ 34 62--B
+KAS103T
+Engineering Mathematics-I
+Theory
+ 37 76--B+
+KEE101T
+Basic Electrical Engineering
+Theory
+ 41 66--B+
+KCS101T
+Programming for Problem Solving
+Theory
+ 50 65--B+
+KMC101
+AI For Engineering
+Theory
+ 24 12--B+
+KAS151P
+Engineering Physics Lab
+Practical
+ 16 20--B+
+KEE151P
+Basic Electrical Engineering Lab
+Practical
+ 19 19--B+
+KCS151P
+Programming for Problem Solving
+Practical
+ 15 24--B+
+KCE151P
+Engineering Graphics & Design Lab
+Practical
+ 40 36--B+
+KNC101
+Soft Skill I
+CA
+ 15 11  
+Semester
+:
+2
+Even/Odd
+:
+Even
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 717
+Result Status
+:
+PASS 
+SGPA
+:
+8.65
+Date of Declaration
+:
+13/09/21
+CodeNameTypeInternalExternalBack PaperGrade
+KAS202T
+Engineering Chemistry
+Theory
+ 37 84--A
+KAS203T
+Engineering Mathematics-II
+Theory
+ 35 78--B+
+KEC201T
+Emerging Domain in Electronics Engineering
+Theory
+ 38 72--B+
+KME201T
+Fundamentals of Mechanical Engineering & Mechatronics
+Theory
+ 36 76--B+
+KMC202
+Emerging Technology for Engineering
+Theory
+ 21 24--A+
+KAS252P
+Engineering Chemistry Lab
+Practical
+ 21 22--A
+KEC251P
+Electronics Engineering Lab
+Practical
+ 20 21--A
+KAS254P
+English Language Lab
+Practical
+ 20 21--A
+KWS251P
+Mechanical Workshop Lab
+Practical
+ 45 46--A+
+KNC201
+Soft Skill II
+CA
+ 23 25  
+Session : 2021-22(REGULAR)
+Semesters : 
+3,4
+Result : 
+PASS 
+Marks : 
+1271/1850
+COP : 
+Audit 1  : Cleared
+Audit 2  : Cleared
+Semester
+:
+3
+Even/Odd
+:
+Odd
+Total Subjects
+:
+10
+Theory Subjects
+:
+5
+Practical Subjects
+:
+4
+Total Marks Obt.
+:
+612
+Result Status
+:
+CP( 0)
+SGPA
+:
+6.82
+Date of Declaration
+:
+31/05/22
+CodeNameTypeInternalExternalBack PaperGrade
+KOE038
+Electronics Engineering
+Theory
+4051--B
+KAS301
+Technical Communication
+Theory
+3449--C
+KCS301
+Data Structure
+Theory
+4436--C
+KCS302
+Computer Organization and Architecture
+Theory
+4048--C
+KCS303
+Discrete Structures & Theory of Logic
+Theory
+3864--B
+KCS351
+Data Structures Using C Lab
+Practical
+2019--B+
+KCS352
+Computer Organization Lab
+Practical
+2221--A
+KCS353
+Discrete Structure & Logic Lab
+Practical
+1920--B+
+KCS354
+Mini Project or Internship Assessment
+Practical
+47 --A+
+KNC301
+Computer System Security
+CA
+1722  
+Semester
+:
+4
+Even/Odd
+:
+Even
+Total Subjects
+:
+9
+Theory Subjects
+:
+5
+Practical Subjects
+:
+3
+Total Marks Obt.
+:
+659
+Result Status
+:
+PASS 
+SGPA
+:
+8.05
+Date of Declaration
+:
+10/10/22
+CodeNameTypeInternalExternalBack PaperGrade
+KAS402
+Maths IV
+Theory
+4863--B+
+KVE401
+Universal Human Values
+Theory
+3960--B
+KCS401
+Operating Systems
+Theory
+3867--B+
+KCS402
+Theory of Automata and Formal Languages
+Theory
+4165--B+
+KCS403
+Microprocessor
+Theory
+4265--B+
+KCS451
+Operating Systems Lab
+Practical
+2120--A
+KCS452
+Microprocessor Lab
+Practical
+2123--A
+KCS453
+Python Language Programming Lab
+Practical
+2323--A+
+KNC402
+Python Programming
+CA
+2526Session : 2020-21(REGULAR)
+Semesters : 
+1,2
+Result : 
+PASS 
+Marks : 
+1373/1800
+COP : 
+Audit 1  : Cleared
+Audit 2  : ClearedSemester
+:
+1
+Even/Odd
+:
+OddTotal Subjects
+:
+10
+Theory Subjects
+:
+5Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 656Result Status
+:
+CP( 0)
+SGPA
+:
+7.8Date of Declaration
+:
+17/06/21CodeNameTypeInternalExternalBack PaperGrade
+KAS101T
+Engineering Physics
+Theory
+ 34 62--B
+KAS103T
+Engineering Mathematics-I
+Theory
+ 37 76--B+
+KEE101T
+Basic Electrical Engineering
+Theory
+ 41 66--B+
+KCS101T
+Programming for Problem Solving
+Theory
+ 50 65--B+
+KMC101
+AI For Engineering
+Theory
+ 24 12--B+
+KAS151P
+Engineering Physics Lab
+Practical
+ 16 20--B+
+KEE151P
+Basic Electrical Engineering Lab
+Practical
+ 19 19--B+
+KCS151P
+Programming for Problem Solving
+Practical
+ 15 24--B+
+KCE151P
+Engineering Graphics & Design Lab
+Practical
+ 40 36--B+
+KNC101
+Soft Skill I
+CA
+ 15 11CodeNameTypeInternalExternalBack PaperGrade
+KAS101T
+Engineering Physics
+Theory
+ 34 62--B
+KAS103T
+Engineering Mathematics-I
+Theory
+ 37 76--B+
+KEE101T
+Basic Electrical Engineering
+Theory
+ 41 66--B+
+KCS101T
+Programming for Problem Solving
+Theory
+ 50 65--B+
+KMC101
+AI For Engineering
+Theory
+ 24 12--B+
+KAS151P
+Engineering Physics Lab
+Practical
+ 16 20--B+
+KEE151P
+Basic Electrical Engineering Lab
+Practical
+ 19 19--B+
+KCS151P
+Programming for Problem Solving
+Practical
+ 15 24--B+
+KCE151P
+Engineering Graphics & Design Lab
+Practical
+ 40 36--B+
+KNC101
+Soft Skill I
+CA
+ 15 11CodeNameTypeInternalExternalBack PaperGradeKAS101T
+Engineering Physics
+Theory
+ 34 62--BKAS103T
+Engineering Mathematics-I
+Theory
+ 37 76--B+KEE101T
+Basic Electrical Engineering
+Theory
+ 41 66--B+KCS101T
+Programming for Problem Solving
+Theory
+ 50 65--B+KMC101
+AI For Engineering
+Theory
+ 24 12--B+KAS151P
+Engineering Physics Lab
+Practical
+ 16 20--B+KEE151P
+Basic Electrical Engineering Lab
+Practical
+ 19 19--B+KCS151P
+Programming for Problem Solving
+Practical
+ 15 24--B+KCE151P
+Engineering Graphics & Design Lab
+Practical
+ 40 36--B+KNC101
+Soft Skill I
+CA
+ 15 11Semester
+:
+2
+Even/Odd
+:
+EvenTotal Subjects
+:
+10
+Theory Subjects
+:
+5Practical Subjects
+:
+4
+Total Marks Obt.
+:
+ 717Result Status
+:
+PASS 
+SGPA
+:
+8.65Date of Declaration
+:
+13/09/21CodeNameTypeInternalExternalBack PaperGrade
+KAS202T
+Engineering Chemistry
+Theory
+ 37 84--A
+KAS203T
+Engineering Mathematics-II
+Theory
+ 35 78--B+
+KEC201T
+Emerging Domain in Electronics Engineering
+Theory
+ 38 72--B+
+KME201T
+Fundamentals of Mechanical Engineering & Mechatronics
+Theory
+ 36 76--B+
+KMC202
+Emerging Technology for Engineering
+Theory
+ 21 24--A+
+KAS252P
+Engineering Chemistry Lab
+Practical
+ 21 22--A
+KEC251P
+Electronics Engineering Lab
+Practical
+ 20 21--A
+KAS254P
+English Language Lab
+Practical
+ 20 21--A
+KWS251P
+Mechanical Workshop Lab
+Practical
+ 45 46--A+
+KNC201
+Soft Skill II
+CA
+ 23 25CodeNameTypeInternalExternalBack PaperGrade
+KAS202T
+Engineering Chemistry
+Theory
+ 37 84--A
+KAS203T
+Engineering Mathematics-II
+Theory
+ 35 78--B+
+KEC201T
+Emerging Domain in Electronics Engineering
+Theory
+ 38 72--B+
+KME201T
+Fundamentals of Mechanical Engineering & Mechatronics
+Theory
+ 36 76--B+
+KMC202
+Emerging Technology for Engineering
+Theory
+ 21 24--A+
+KAS252P
+Engineering Chemistry Lab
+Practical
+ 21 22--A
+KEC251P
+Electronics Engineering Lab
+Practical
+ 20 21--A
+KAS254P
+English Language Lab
+Practical
+ 20 21--A
+KWS251P
+Mechanical Workshop Lab
+Practical
+ 45 46--A+
+KNC201
+Soft Skill II
+CA
+ 23 25CodeNameTypeInternalExternalBack PaperGradeKAS202T
+Engineering Chemistry
+Theory
+ 37 84--AKAS203T
+Engineering Mathematics-II
+Theory
+ 35 78--B+KEC201T
+Emerging Domain in Electronics Engineering
+Theory
+ 38 72--B+KME201T
+Fundamentals of Mechanical Engineering & Mechatronics
+Theory
+ 36 76--B+KMC202
+Emerging Technology for Engineering
+Theory
+ 21 24--A+KAS252P
+Engineering Chemistry Lab
+Practical
+ 21 22--AKEC251P
+Electronics Engineering Lab
+Practical
+ 20 21--AKAS254P
+English Language Lab
+Practical
+ 20 21--AKWS251P
+Mechanical Workshop Lab
+Practical
+ 45 46--A+KNC201
+Soft Skill II
+CA
+ 23 25Session : 2021-22(REGULAR)
+Semesters : 
+3,4
+Result : 
+PASS 
+Marks : 
+1271/1850
+COP : 
+Audit 1  : Cleared
+Audit 2  : ClearedSemester
+:
+3
+Even/Odd
+:
+OddTotal Subjects
+:
+10
+Theory Subjects
+:
+5Practical Subjects
+:
+4
+Total Marks Obt.
+:
+612Result Status
+:
+CP( 0)
+SGPA
+:
+6.82Date of Declaration
+:
+31/05/22CodeNameTypeInternalExternalBack PaperGrade
+KOE038
+Electronics Engineering
+Theory
+4051--B
+KAS301
+Technical Communication
+Theory
+3449--C
+KCS301
+Data Structure
+Theory
+4436--C
+KCS302
+Computer Organization and Architecture
+Theory
+4048--C
+KCS303
+Discrete Structures & Theory of Logic
+Theory
+3864--B
+KCS351
+Data Structures Using C Lab
+Practical
+2019--B+
+KCS352
+Computer Organization Lab
+Practical
+2221--A
+KCS353
+Discrete Structure & Logic Lab
+Practical
+1920--B+
+KCS354
+Mini Project or Internship Assessment
+Practical
+47 --A+
+KNC301
+Computer System Security
+CA
+1722CodeNameTypeInternalExternalBack PaperGrade
+KOE038
+Electronics Engineering
+Theory
+4051--B
+KAS301
+Technical Communication
+Theory
+3449--C
+KCS301
+Data Structure
+Theory
+4436--C
+KCS302
+Computer Organization and Architecture
+Theory
+4048--C
+KCS303
+Discrete Structures & Theory of Logic
+Theory
+3864--B
+KCS351
+Data Structures Using C Lab
+Practical
+2019--B+
+KCS352
+Computer Organization Lab
+Practical
+2221--A
+KCS353
+Discrete Structure & Logic Lab
+Practical
+1920--B+
+KCS354
+Mini Project or Internship Assessment
+Practical
+47 --A+
+KNC301
+Computer System Security
+CA
+1722CodeNameTypeInternalExternalBack PaperGradeKOE038
+Electronics Engineering
+Theory
+4051--BKAS301
+Technical Communication
+Theory
+3449--CKCS301
+Data Structure
+Theory
+4436--CKCS302
+Computer Organization and Architecture
+Theory
+4048--CKCS303
+Discrete Structures & Theory of Logic
+Theory
+3864--BKCS351
+Data Structures Using C Lab
+Practical
+2019--B+KCS352
+Computer Organization Lab
+Practical
+2221--AKCS353
+Discrete Structure & Logic Lab
+Practical
+1920--B+KCS354
+Mini Project or Internship Assessment
+Practical
+47 --A+KNC301
+Computer System Security
+CA
+1722Semester
+:
+4
+Even/Odd
+:
+EvenTotal Subjects
+:
+9
+Theory Subjects
+:
+5Practical Subjects
+:
+3
+Total Marks Obt.
+:
+659Result Status
+:
+PASS 
+SGPA
+:
+8.05Date of Declaration
+:
+10/10/22CodeNameTypeInternalExternalBack PaperGrade
+KAS402
+Maths IV
+Theory
+4863--B+
+KVE401
+Universal Human Values
+Theory
+3960--B
+KCS401
+Operating Systems
+Theory
+3867--B+
+KCS402
+Theory of Automata and Formal Languages
+Theory
+4165--B+
+KCS403
+Microprocessor
+Theory
+4265--B+
+KCS451
+Operating Systems Lab
+Practical
+2120--A
+KCS452
+Microprocessor Lab
+Practical
+2123--A
+KCS453
+Python Language Programming Lab
+Practical
+2323--A+
+KNC402
+Python Programming
+CA
+2526CodeNameTypeInternalExternalBack PaperGrade
+KAS402
+Maths IV
+Theory
+4863--B+
+KVE401
+Universal Human Values
+Theory
+3960--B
+KCS401
+Operating Systems
+Theory
+3867--B+
+KCS402
+Theory of Automata and Formal Languages
+Theory
+4165--B+
+KCS403
+Microprocessor
+Theory
+4265--B+
+KCS451
+Operating Systems Lab
+Practical
+2120--A
+KCS452
+Microprocessor Lab
+Practical
+2123--A
+KCS453
+Python Language Programming Lab
+Practical
+2323--A+
+KNC402
+Python Programming
+CA
+2526CodeNameTypeInternalExternalBack PaperGradeKAS402
+Maths IV
+Theory
+4863--B+KVE401
+Universal Human Values
+Theory
+3960--BKCS401
+Operating Systems
+Theory
+3867--B+KCS402
+Theory of Automata and Formal Languages
+Theory
+4165--B+KCS403
+Microprocessor
+Theory
+4265--B+KCS451
+Operating Systems Lab
+Practical
+2120--AKCS452
+Microprocessor Lab
+Practical
+2123--AKCS453
+Python Language Programming Lab
+Practical
+2323--A+KNC402
+Python Programming
+CA
+2526MOOCs CertificationsMOOCs CertificationsIn case you have passed some university specified MOOCs courses which are not mentioned above. Kindly inform at examcontrolroom@aktu.ac.inCONVERSION OF GRADES INTO PERCENTAGE 
+Marks in percentage =(CGPA) X 10Note: University doesn't own for the errors or omissions, if any, in this statement.
+Designed & Developed by
+                                                AKTU-SDC Team

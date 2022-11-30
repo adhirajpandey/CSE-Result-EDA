@@ -12,5 +12,5 @@ print(csv_list)
 
 df_master = pd.read_csv('master.csv')
 for csv_file in csv_list:
-    df = pd. read_csv (csv_file)
+    df = pd.read_csv(csv_file)
     df.to_csv('master.csv', mode='a', header=False, index=False)
