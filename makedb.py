@@ -642,6 +642,9 @@ if __name__ == '__main__':
     branch = take_args()
 
     cwd = os.path.dirname(__file__)
+
+    #create clean output directory if it doesn't exist
+    os.mkdir(os.path.dirname(__file__) + '/clean output')
     
     #USER CONFIGURATION
     #path to directory containing result html files
