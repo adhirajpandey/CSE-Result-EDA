@@ -22,15 +22,7 @@ Used sqlite3 to store the curated Database and Tableau to visualize data to gath
 - DB: Contains the final csv files of the students database branchwise.
 
 - scrape.py - This script uses selenium to automate the process of entering roll number and extracting the data from the result portal in html format and stores it in output directory defined by user.
-- mkdbcse.py - This script uses beautifulsoup, pandas, csv to parse the saved html result files and store it in structured format in a csv file.
-
-Following python scripts are also used to create the csv db files for other allied branches.
-
-1. mkdbcseai.py
-2. mkdbcseaiml.py
-3. mkdbcseds.py
-4. mkdbcseiot.py
-5. mkdbcsit.py
+- makedb.py - This script uses beautifulsoup, pandas, csv to parse the saved html result files and store it in structured format in a csv file, takes -b branch argument.
 
 - mergedbs.py - This script uses pandas to merge the csv files of all branches into a single csv file.
 
