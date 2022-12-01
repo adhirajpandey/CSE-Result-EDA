@@ -11,6 +11,7 @@ Used sqlite3 to store the curated Database and Tableau to visualize data to gath
 - python3
 - pip3
 - os
+- json
 - beautifulsoup4
 - pandas
 - csv
