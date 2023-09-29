@@ -19,8 +19,6 @@ Used sqlite3 to store the curated Database and Tableau to visualize data to gath
 
 # Files and Folders Description
 
-- Raw Results: Contains the raw results of all the students of all branches in the form of html files.
-
 - DB: Contains the final csv files of the students database branchwise.
 
 - scrape.py - This script uses selenium to automate the process of entering roll number and extracting the data from the result portal in html format and stores it in output directory defined by user.
@@ -41,6 +39,7 @@ Used sqlite3 to store the curated Database and Tableau to visualize data to gath
 - The analysis is done on the 2nd Year results of the students.
 - The final cleaned data is stored in the results.db file so further it can be used with SQL queries to gain more insights.
 - The dashboard.twbx file contains the final dashboard created using Tableau and is hosted on Tableau Public.
+
 Check it out here: https://public.tableau.com/app/profile/adhiraj.pandey3901/viz/CSEResultEDA/Dashboard1
 
 
